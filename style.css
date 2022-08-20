@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+h1 {
+    color: saddlebrown;
+    text-align: center;
+}
+div {
+    width: 600px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+}
+h5 {
+
+    text-align: right;
+}
+h3 {
+background-color: coral;
+    
+}
